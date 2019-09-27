@@ -1,0 +1,4 @@
+/zeros
+/zeros.haskell
+*.hi
+*.o
